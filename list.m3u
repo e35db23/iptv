@@ -13,3 +13,5 @@ http://hls-01-regions.emgsound.ru/13_msk/playlist.m3u8
 https://megapolisfm.hostingradio.ru/megapolisfm96.aacp
 #EXTINF:0 tvg-logo="https://montecarlo.ru/uploads/50/a2/ffdb64da670d92ab2e38e08b6860.png" group-title="Radio",Монте Карло
 https://montecarlo.hostingradio.ru/montecarlo96.aacp
+#EXTINF:0 tvg-rec="0" group-title="Radio",Шоколад
+https://choco.hostingradio.ru:10010/fm
