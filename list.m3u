@@ -7,11 +7,11 @@ https://video.tegnaone.com/live/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4
 https://lnc-wttg.tubi.video/index.m3u8
 #EXTINF:0 tvg-rec="0" group-title="En",NBC4 Washington
 https://nbcu-nbcwashingtonnews-firetv.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-rec="0" group-title="Radio",Радио 7
+#EXTINF:-1 tvg-logo="https://imgur.com/B7YuiIK" group-title="Radio",Радио 7
 http://hls-01-regions.emgsound.ru/13_msk/playlist.m3u8
-#EXTINF:0 tvg-rec="0" group-title="Radio",Megapolis 89.5
+#EXTINF:-1 tvg-logo="https://imgur.com/PzchFrF" group-title="Radio",Megapolis 89.5
 https://megapolisfm.hostingradio.ru/megapolisfm96.aacp
-#EXTINF:-1 tvg-logo="https://montecarlo.ru/uploads/50/a2/ffdb64da670d92ab2e38e08b6860.png" group-title="Radio",Монте Карло
+#EXTINF:-1 tvg-logo="https://imgur.com/cJ5k2XR" group-title="Radio",Монте Карло
 https://montecarlo.hostingradio.ru/montecarlo96.aacp
-#EXTINF:0 tvg-rec="0" group-title="Radio",Шоколад
+#EXTINF:-1 tvg-logo="https://imgur.com/QRyasvy" group-title="Radio",Шоколад
 https://choco.hostingradio.ru:10010/fm
