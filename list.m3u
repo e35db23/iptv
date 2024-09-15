@@ -13,5 +13,15 @@ https://megapolisfm.hostingradio.ru/megapolisfm96.aacp
 https://choco.hostingradio.ru:10010/fm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cJ5k2XR.jpeg" group-title="Radio",Монте Карло
 https://montecarlo.hostingradio.ru/montecarlo96.aacp
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B7YuiIK.jpeg" group-title="Radio",Радио 7
+#EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/radio7-na7holmah.png" group-title="Radio",Радио 7
 http://hls-01-regions.emgsound.ru/13_msk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/Radio-delish-deep.png" group-title="Radio",Delish Deep Radio
+https://relay1.radiotoolkit.com/delishdeephd
+#EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/jazz-smooth.jpg" group-title="Radio",Smooth Jazz
+https://jfm1.hostingradio.ru:14536/sjstream.mp3
+#EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/best-deep-fm.jpg" group-title="Radio",BEST DEEP FM
+https://listen10.myradio24.com/5129
+#EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/Svoe-fm.png" group-title="Radio",Свое FM
+https://relay2.radiotoolkit.com/svoefm
+#EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/lradio.png" group-title="Radio",L-Radio
+https://air.unmixed.ru/lradio256
