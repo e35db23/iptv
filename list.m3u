@@ -11,7 +11,7 @@ https://nbcu-nbcwashingtonnews-firetv.amagi.tv/playlist.m3u8
 https://megapolisfm.hostingradio.ru/megapolisfm96.aacp
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wSCbulG.jpeg" group-title="Radio",Шоколад
 https://choco.hostingradio.ru:10010/fm
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cJ5k2XR.jpeg" group-title="Radio",Монте Карло
+#EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/mc.png" group-title="Radio",Монте Карло
 https://montecarlo.hostingradio.ru/montecarlo96.aacp
 #EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/radio7-na7holmah.png" group-title="Radio",Радио 7
 http://hls-01-regions.emgsound.ru/13_msk/playlist.m3u8
@@ -25,3 +25,5 @@ https://listen10.myradio24.com/5129
 https://relay2.radiotoolkit.com/svoefm
 #EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/lradio.png" group-title="Radio",L-Radio
 https://air.unmixed.ru/lradio256
+#EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/mc-chil-lounge.png" group-title="Radio",Монте-Карло - Chill Lounge
+https://mc-chilllonge.hostingradio.ru/chilllonge96.aac
