@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:0 tvg-rec="0" group-title="En",English Class HD
 http://ftinq9sq.russtv.net/iptv/8BQ9KG8NAA8W5V/15190/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b49ElBk.png" group-title="Draft",CBS 9 Washington DC (WUSA)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b49ElBk.png" group-title="En News",CBS 9 Washington DC (WUSA)
 https://video.tegnaone.com/live/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA-2/index.m3u8
 #EXTINF:-1 tvg-id="WTTGDT1.us" tvg-logo="https://i.imgur.com/ktLKla7.png" group-title="Draft",FOX 5 Washington DC (WTTG)
 https://apollo.production-public.tubi.io/live/ac-wttg.m3u8
-#EXTINF:0 tvg-rec="0" group-title="En",NBC4 Washington
+#EXTINF:0 tvg-rec="0" group-title="En News",NBC4 Washington
 https://nbcu-nbcwashingtonnews-firetv.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-rec="0" group-title="En",Washington Post
+#EXTINF:0 tvg-rec="0" group-title="En News",Washington Post
 https://washingtonpost-firetv.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-rec="0" group-title="En",C-Span
 http://fl2.moveonjoy.com/C-SPAN/index.m3u8
